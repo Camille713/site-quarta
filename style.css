@@ -1,0 +1,16 @@
+h1 {color: black;}
+#img1 {width: 50%}
+#img2 {width: 10%}
+
+body{
+    pointer-events: auto !important;
+    background-size: 100% !important;
+    opacity: 0.90 !important;
+    background-position: 0 0 !important;
+    background-image: url(https://static.lojadopapel.com.br/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/v/e/verde-escuro-santiago_1.jpg);
+    content: '';
+    position: absolute;;
+    z-index: 999;
+    width: 100%;
+    background-repeat: no-repeat;
+    }
